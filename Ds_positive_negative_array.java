@@ -1,4 +1,4 @@
-package datastructures.java.com;
+
 
 import java.util.Scanner;
 
